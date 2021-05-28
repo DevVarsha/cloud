@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "cloudTask"
+  "defaultProject": "cloudTask",
+  "cli": {
+    "analytics": "0f0f5a3c-3289-40dd-b068-37f9acb14b96"
+  }
 }
